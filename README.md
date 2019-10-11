@@ -13,3 +13,8 @@ Change background every 10 seconds:
 ```bash
 python m.y 10
 ```
+
+Definitely the most fun to run as `screen` in the background, especially with an extra long period specified:
+```bash
+screen python m.py 300
+```
